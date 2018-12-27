@@ -1,0 +1,20 @@
+{
+  "name": "thonksalot",
+  "version": "0.3.3",
+  "description": "A bot for discord written in discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "baka"
+  ],
+  "author": "Lunchb0ne",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "nodemon": "^1.18.9"
+  }
+}
