@@ -13,6 +13,7 @@
   ],
   "author": "Lunchb0ne",
   "license": "ISC",
+  "repository": "github:Lunchb0ne/Thonkbot"
   "dependencies": {
     "discord.js": "^12.2.0",
     "nodemon": "^1.18.9"
